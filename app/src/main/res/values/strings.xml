@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPosts</string>
+    <string name="body">Body</string>
+    <string name="title">Title</string>
+    <string name="userid">UserId</string>
+    <string name="postid">PostId</string>
+</resources>
